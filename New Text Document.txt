@@ -1,0 +1,17 @@
+#include <stdio.h>
+struct employee{
+    int Emp_id;
+    String Emp_name[10];
+    String Emp_city[10];
+};
+int employeee_no_of;
+int fn1(){
+    struct employee s1;
+    scanf("%d", employeee_no_of);
+    for (int =0; i< 5; i++){
+        scanf("%d", s1[i].Emp_id);
+         scanf("%s", s1[i].Emp_name);
+          scanf("%s", s1[i].Emp_city);
+    }
+    return 0;
+}
