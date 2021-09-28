@@ -5,7 +5,7 @@ struct employee{
     String Emp_city[10];
 };
 int employeee_no_of;
-int fn1(){
+int main(){
     struct employee s1;
     scanf("%d", employeee_no_of);
     for (int =0; i< 5; i++){
