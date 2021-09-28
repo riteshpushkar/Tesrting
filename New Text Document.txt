@@ -17,3 +17,9 @@ int main(){
     
     return 0;
 }
+int fn1() {
+int a;
+printf("enter amount of time taken by code");
+scanf("%d" , &a);
+return(a);
+}
