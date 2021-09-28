@@ -13,5 +13,7 @@ int main(){
          scanf("%s", s1[i].Emp_name);
           scanf("%s", s1[i].Emp_city);
     }
+    
+    
     return 0;
 }
